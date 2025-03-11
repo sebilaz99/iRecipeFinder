@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iRecipeFinder</string>
+    <string name="search_bar_hint">What do you feel like eating?</string>
+    <string name="favorites_subtitle">Favorites</string>
+    <string name="suggested_recipes_subtitle">Suggested Recipes</string>
+    <string name="recipe_duration">%1$d min.</string>
+    <string name="refresh_button">I don\'t like these</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>">
+</resources>
